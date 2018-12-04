@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520358145318",
+    "firebase_url": "https://bernabemarylab9.firebaseio.com",
+    "project_id": "bernabemarylab9",
+    "storage_bucket": "bernabemarylab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520358145318:android:22d5db0eb109103d",
+        "android_client_info": {
+          "package_name": "com.bernabe.mary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520358145318-5e6nguro2d4oqcanbj0lv78irqehrfh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdGNbgSxRD9N_pH-9KtYnWJ9PSCp682c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
